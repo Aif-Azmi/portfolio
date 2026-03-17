@@ -1,0 +1,6 @@
+{"REWRITESS": [
+  {
+    "source": "/(.*)",
+    "destination": "/"
+  }
+]}
